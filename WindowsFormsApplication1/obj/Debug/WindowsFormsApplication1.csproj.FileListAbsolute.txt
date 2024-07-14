@@ -1,0 +1,66 @@
+c:\users\bilisim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\bilisim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\bilisim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\bilisim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\bilisim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\bilisim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\bilisim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\bilisim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\bilisim\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Program Files (x86)\Ozan\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Program Files (x86)\Ozan\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Program Files (x86)\Ozan\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\asus\Desktop\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\asus\Desktop\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\asus\Desktop\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\asus\Desktop\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\asus\Desktop\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\ders\PROTE\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\asus\Desktop\ders\PROTE\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\asus\Desktop\ders\PROTE\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\ders\PROTE\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\asus\Desktop\ders\PROTE\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\asus\Desktop\ders\PROTE\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\ders\PROTE\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\asus\Desktop\ders\PROTE\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\asus\Desktop\ders\PROTE\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+F:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+F:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sayıları Dizme Oyunu.exe.config
+F:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sayıları Dizme Oyunu.exe
+F:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sayıları Dizme Oyunu.pdb
+F:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sayıları Dizme Oyunu.exe
+F:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sayıları Dizme Oyunu.pdb
+D:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sayıları Dizme Oyunu.exe.config
+D:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sayıları Dizme Oyunu.exe
+D:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sayıları Dizme Oyunu.pdb
+D:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sayıları Dizme Oyunu.exe
+D:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sayıları Dizme Oyunu.pdb
+D:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+F:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sayıları Dizme Oyunu.exe.config
+E:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sayıları Dizme Oyunu.exe
+E:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sayıları Dizme Oyunu.pdb
+E:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sayıları Dizme Oyunu.exe
+E:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sayıları Dizme Oyunu.pdb
+E:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+E:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\_Unprotected\WindowsFormApplication(Örnekler)\C# Oyun\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
